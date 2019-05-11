@@ -1,0 +1,14 @@
+Hamman | Dillon | Male | Purple | 4/23/1998
+Smith | Jane | Female | Red | 6/8/1998
+Freund | Danny | Male | Blue | 5/20/1998
+Bucci | Casie | Female | Red | 5/9/1988
+Crawley | George | Male | Blue | 3/24/1925
+Pugh | Tyler | Male | Green | 2/15/1998
+Woods, Tiger, Male, Red, 12/30/1975
+Wayne, Bruce, Male, Black, 5/27/1939
+Stark Tony Male Red 5/29/1970
+Rogers Steve Male Blue 7/4/1918
+Potts Pepper Female Green 2/13/1970
+Al'Ghul Talia Female Black 5/15/1971
+Jordan Michael Male Red 6/19/1963
+Jackson Michael Male Blue 4/18/1958
